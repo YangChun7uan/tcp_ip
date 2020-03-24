@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+s=$1
+
+out=${s//.*/}
+echo ${out}
+
+
+

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mysocket.h": "c",
+        "socket.h": "c"
+    },
+    "python.pythonPath": "/Volumes/Spring/anaconda3/bin/python"
+}
